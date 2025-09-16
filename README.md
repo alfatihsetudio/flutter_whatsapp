@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # latihan_flutter_fatih
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# flutter_whatsapp
+>>>>>>> af42b4e7b1d2c7fd68266606fe711068d279adcb
